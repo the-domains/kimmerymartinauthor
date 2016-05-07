@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KimmeryMartinAuthor]]></title>
+        <description><![CDATA[KimmeryMartinAuthor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 17:45:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Review of Pirate Hunters: Treasure, Obsession, and the Search for a Legendary Pirate Ship</p>]]></description>
+            <link>undefinedreview-of-pirate-hunters-treasure-obsession-and-the-searc/index.html</link>
+            <guid isPermaLink="false">8deeb1f1-5cf9-491f-9ffd-4b6ed51d1717</guid>
+            <pubDate>Sat, 07 May 2016 17:45:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
